@@ -1,3 +1,5 @@
-RVM es una herramienta de línea de comandos que permite instalar fácilmente , gestionar y trabajar con múltiples entornos de rubí 
+1. RVM es una herramienta de línea de comandos que permite instalar fácilmente , gestionar y trabajar con múltiples entornos de rubí 
 
-Realmente las diferencia radica en que puedes escribir la secuencia de comandos en un fichero y lanzar el interprete que ejecutara cada instruccion como si la hubieras escrito en el interprete interactivo
+2. Realmente las diferencia radica en que puedes escribir la secuencia de comandos en un fichero y lanzar el interprete que ejecutara cada instruccion como si la hubieras escrito en el interprete interactivo
+
+3. Con el interprete interactivo se muestra los comandos y resultados mientras que en pry solo se muestra el resultado
